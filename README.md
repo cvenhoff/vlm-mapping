@@ -53,4 +53,13 @@ This script performs the following steps:
 
 All results are saved in the `results` directory, providing insights into layer-wise progression of visual-language alignment, reconstruction error patterns, sparsity characteristics, and semantic alignment measurements.
 
+## Citation
 
+```bibtex
+@article{venhoff2025how,
+  title     = {How Visual Representations Map to Language Feature Space in Multimodal LLMs},
+  author    = {Constantin Venhoff and Ashkan Khakzar and Sonia Joseph and Philip Torr and Neel Nanda},
+  booktitle = {The 4th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2025},
+  year      = {2025},
+}
+```
