@@ -1,0 +1,13 @@
+.env
+__pycache__/
+
+train/wandb/
+
+data/*
+external/*
+
+results/vars/*
+
+activations/*
+
+clip_gemma_lmms_eval.py
