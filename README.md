@@ -61,5 +61,6 @@ All results are saved in the `results` directory, providing insights into layer-
   author    = {Constantin Venhoff and Ashkan Khakzar and Sonia Joseph and Philip Torr and Neel Nanda},
   booktitle = {The 4th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2025},
   year      = {2025},
+  url = {https://arxiv.org/abs/2506.11976}
 }
 ```
